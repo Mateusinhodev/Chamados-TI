@@ -5,6 +5,7 @@
     position: fixed;
     height: 100%;
     overflow: auto;
+    width: 180px;
 }
 
 .sidebar div {
